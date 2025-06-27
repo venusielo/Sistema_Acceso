@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+
+# Carpetas con imágenes procesadas
+/train_img/
+/aligned_img/
+
+# Modelos preentrenados y generados
+/model/
+/class/
+/npy/
+
+# Archivos temporales de Python
+__pycache__/
+/*.py[cod]
+*/__pycache__/
+
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+
+# Archivos de logs o salida
+*.log
+
+

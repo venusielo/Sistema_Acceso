@@ -1,9 +1,12 @@
 # Entorno virtual
 .venv/
+*.pyc
 
 # Carpetas con imágenes procesadas
 /train_img/
 /aligned_img/
+*.npy
+*.pb
 
 # Modelos preentrenados y generados
 /model/
@@ -18,8 +21,12 @@ __pycache__/
 # Archivos de sistema y editores
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Archivos de logs o salida
+# Archivos temporales
 *.log
+*.back
+*.temporales
+*.tmp
 
 

@@ -1,3 +1,0 @@
-./aligned_img\David\1000029307.png 1036 1907 1863 3054
-./aligned_img\David\1000029308.png 942 1772 2027 3290
-./aligned_img\David\1000029309.png 981 2006 1921 3342
